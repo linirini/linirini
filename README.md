@@ -4,9 +4,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/linirini?pet-id=638734512107845469"
+    src="https://render.gitanimals.org/lines/linirini?pet-id=638740071005690507"
     width="600"
-    height="190"
+    height="120"
   />
 </a>
 
